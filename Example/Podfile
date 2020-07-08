@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'VPCustomColors_Example' do
+  pod 'VPCustomColors', :path => '../'
+
+  target 'VPCustomColors_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

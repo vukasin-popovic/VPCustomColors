@@ -1,0 +1,16 @@
+PODS:
+  - VPCustomColors (0.1.0)
+
+DEPENDENCIES:
+  - VPCustomColors (from `../`)
+
+EXTERNAL SOURCES:
+  VPCustomColors:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VPCustomColors: 708fd182ac5d10f18de09e649f8ce2eecf541dcc
+
+PODFILE CHECKSUM: 6df3772f18acdfa5065ba313397411b1edfcc9dd
+
+COCOAPODS: 1.9.1

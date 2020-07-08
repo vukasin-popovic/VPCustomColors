@@ -1,0 +1,6 @@
+framework module VPCustomColors {
+  umbrella header "VPCustomColors-umbrella.h"
+
+  export *
+  module * { export * }
+}

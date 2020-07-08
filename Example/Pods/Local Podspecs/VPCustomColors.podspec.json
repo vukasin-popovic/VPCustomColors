@@ -1,0 +1,22 @@
+{
+  "name": "VPCustomColors",
+  "version": "0.1.0",
+  "summary": "A short description of VPCustomColors.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/vukasin-popovic/VPCustomColors",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vukasin-popovic": "vukasin.popovic@swiftylabs.io"
+  },
+  "source": {
+    "git": "https://github.com/vukasin-popovic/VPCustomColors.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "VPCustomColors/Classes/**/*"
+}
